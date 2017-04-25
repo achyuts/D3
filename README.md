@@ -13,15 +13,15 @@ https://bost.ocks.org/mike/
 ##d3 API reference
 https://github.com/d3/d3/blob/master/API.md
 
-##d3 Gallery
+## d3 Gallery
 https://github.com/d3/d3/wiki/Gallery
 
 
-##Selection, enter(), exit() tutorial
+## Selection, enter(), exit() tutorial
 https://bost.ocks.org/mike/join/
 http://bl.ocks.org/alansmithy/e984477a741bc56db5a5
 
-##d3 scales
+## d3 scales
 https://medium.com/@mbostock/introducing-d3-scale-61980c51545f
 https://github.com/d3/d3-scale
 
