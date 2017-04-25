@@ -8,11 +8,11 @@
 - https://github.com/d3/d3/wiki/Tutorials
 - https://github.com/d3/d3/wiki/Gallery
 
-##Mike Bostock
+**Mike Bostock**
 - https://bost.ocks.org/mike/
 
 
-##d3 API reference
+## d3 API reference
 - https://github.com/d3/d3/blob/master/API.md
 
 ## d3 Gallery
