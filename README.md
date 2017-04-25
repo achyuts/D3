@@ -40,7 +40,7 @@
 });
 
 **Grouping of svg elements**
-> Use the <g> tag
+> Use the g tag
 
 **SVG Axis**
 > var vAxis = d3.svg.axis()
